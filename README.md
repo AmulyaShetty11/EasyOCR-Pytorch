@@ -12,10 +12,7 @@ Optical Character Recognition (OCR) is a technology that enables the recognition
 Python 3.x
 
 ### Technologies Used
-OpenCV
-EasyOCR
-Matplotlib
-Numpy
+OpenCV | EasyOCR | Matplotlib | Numpy
 
 ### Steps
 1. Install and import our dependenciesv
