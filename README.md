@@ -15,7 +15,7 @@ Python 3.x
 OpenCV | EasyOCR | Matplotlib | Numpy
 
 ### Steps
-1. Install and import our dependenciesv
+1. Install and import our dependencies
 2. Read in images or video
 3. Draw Results
 4. Handling Multiple Lines
